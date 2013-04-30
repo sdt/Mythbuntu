@@ -1,8 +1,8 @@
 <themeinfo>
-    <name>Mythbuntu</name>
+    <name>Mythbuntu-sdt</name>
     <author>
-        <name>Thomas Mashos</name>
-        <email>tgm4883@mythbuntu.org</email>
+        <name>Stephen Thirlwall</name>
+        <email>mythbuntu-theme@sdt.name</email>
     </author>
 
     <!-- The Theme Types (Required) -->
@@ -21,7 +21,7 @@
 
     <detail>
         <thumbnail name="preview">preview.png</thumbnail>
-        <description>A sleek black theme that is the default theme for the Mythbuntu distribution. The Mythbuntu theme is inspired by ProjectGrayhem.</description> 
+        <description>Personal customisations of the Mythbuntu theme.</description>
         <errata>Requires OpenGL Themepainter</errata>
     </detail>
 </themeinfo>
